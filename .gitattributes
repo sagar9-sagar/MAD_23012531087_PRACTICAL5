@@ -1,0 +1,9 @@
+# Ignore non-Kotlin files in language stats
+*.xml linguist-vendored
+*.gradle linguist-vendored
+*.md linguist-vendored
+*.json linguist-vendored
+*.properties linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
